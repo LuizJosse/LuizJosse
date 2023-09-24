@@ -1,6 +1,6 @@
 olá eu sou luiz josé 
 
-- 🔭 Hoje estudo java script
+- 🔭 Hoje C#
 - 🌱 tambem estudo Html e css
 - 👯 Contrate-me no email: luiznetto12@hotmail.com.
 
