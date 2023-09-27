@@ -1,7 +1,7 @@
 
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Olá, sou Luiz! Sou apaixonado por programação e estou constantemente explorando o mundo do desenvolvimento de software. Aqui no meu perfil, você encontrará uma variedade de projetos e contribuições que refletem minha jornada como desenvolvedor 🌐.</p>&nbsp;
 
 <div>
   <a href="https://github.com/LuizJosse">
